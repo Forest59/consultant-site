@@ -1,0 +1,30 @@
+{
+  "title": "IT Consultant",
+  "subtitle": "Digital solutions, web development and information systems optimization.",
+  "menu": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome to my IT consulting website."
+  },
+  "services": {
+    "title": "My Services",
+    "list": [
+      "Web development (React, Node.js)",
+      "Cybersecurity & technical audit",
+      "IT support & maintenance",
+      "Digital transformation consulting"
+    ]
+  },
+  "about": {
+    "title": "About",
+    "text": "IT consultant with expertise in web development and systems optimization."
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email"
+  }
+}

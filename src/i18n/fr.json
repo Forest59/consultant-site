@@ -1,0 +1,30 @@
+{
+  "title": "Consultant Informatique",
+  "subtitle": "Solutions numériques, développement web et optimisation des systèmes d’information.",
+  "menu": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Bienvenue sur mon site de consultant informatique."
+  },
+  "services": {
+    "title": "Mes Services",
+    "list": [
+      "Développement web (React, Node.js)",
+      "Cybersécurité & audit technique",
+      "Support informatique & maintenance",
+      "Conseil en transformation digitale"
+    ]
+  },
+  "about": {
+    "title": "À propos",
+    "text": "Consultant informatique avec expertise en développement web et optimisation des systèmes."
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email"
+  }
+}
